@@ -1,0 +1,7 @@
+__pycache__/
+dc_api_key.txt
+osu_api_key.txt
+osu_client_credentials.txt
+osu_score_ids.txt
+osu_text_channel_id.txt
+osu_users.txt
